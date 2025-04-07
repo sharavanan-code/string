@@ -2,7 +2,7 @@ import java.util.Arrays;
 public class anagrams {
     public static void main(String[] args) {
         String str1 = "eat";
-        String str2 ="teag";
+        String str2 ="tea";
 
         if(str1.length()!=str2.length()){
             System.out.println("its not a anagrams");
